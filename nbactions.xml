@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-Ejecutar backend</actionName>
+            <displayName>Ejecutar backend</displayName>
+            <goals>
+                <goal>org.springframework.boot:spring-boot-maven-plugin:3.4.0:run</goal>
+            </goals>
+        </action>
+    </actions>
